@@ -1,16 +1,13 @@
-# audio_book_exam
+![App Screenshot](https://cdn.dribbble.com/users/2161754/screenshots/14861900/media/650b10b9d1b67ae7367d76b8d996608f.png)
 
-A new Flutter project.
 
-## Getting Started
+# Audio book (exam)
 
-This project is a starting point for a Flutter application.
+Flutter Static Page Designs
+## Some infos
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Title             | Info                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Running OS | MacOS Monterey v12.3 |
+| Testing Device | iPhone 13 |
+| XCode | v13.3 |
