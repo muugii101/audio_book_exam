@@ -13,7 +13,7 @@ class _FavoriteTabState extends State<FavoriteTab> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Header(title: "Favorite"),
+        title: const Header(title: "Favoritee"),
         backgroundColor: Colors.white,
         elevation: 3,
         shadowColor: Colors.black45,
